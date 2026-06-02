@@ -78,8 +78,8 @@ The objective of this project was to analyze a used car sales dataset to identif
 ### 👤 Author
 **Pankaj Khurana**
 
-**GitHub:** (https://github.com/pankajkhurana0802)
-**LinkedIn:** (www.linkedin.com/in/pankajkhurrana)
+- **GitHub:** (https://github.com/pankajkhurana0802)
+- **LinkedIn:** (www.linkedin.com/in/pankajkhurrana)
 
 ### ⭐ Show your support
 **Give a ⭐️ if this project helped you!**
