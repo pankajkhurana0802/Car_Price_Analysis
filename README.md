@@ -7,7 +7,7 @@
 **Date:** May 2026  
 **Status:** ✅ Complete
 
-## Overview
+### Overview
 The objective of this project was to analyze a used car sales dataset to identify key factors affecting vehicle prices, sales trends, and market behavior. The analysis involved data cleaning, exploratory data analysis (EDA) and visualization.
 
 ### Objectives
@@ -17,8 +17,7 @@ The objective of this project was to analyze a used car sales dataset to identif
 - Create professional visualizations with Matplotlib and Seaborn
 - Apply foundational techniques for exploratory data analysis
 
-## Dataset
-
+### Dataset
 **Source:** Used Car Listings Dataset  
 **Records:** 558,837 car listings  
 **Features:** 16 attributes  
