@@ -75,8 +75,7 @@ The objective of this project was to analyze a used car sales dataset to identif
 - Better condition significantly improves selling price.
 - Premium brands command higher market prices.
 
-### 👤 Author: **Pankaj Khurana**
-
+### 👤 Author:
 - **GitHub:** (https://github.com/pankajkhurana0802)
 - **LinkedIn:** (www.linkedin.com/in/pankajkhurrana)
 
